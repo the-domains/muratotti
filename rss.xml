@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[muratotti]]></title>
         <description><![CDATA[muratotti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/muratotti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 20:04:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 20:34:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/muratotti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea696055-69e1-444a-9a86-7436a662566d.JPG">]]></description>
+            <link>https://thegrid.ai/muratotti/8a19d015-02b1-42ce-bce6-2a9bc2a2cc19/index.html</link>
+            <guid isPermaLink="false">8a19d015-02b1-42ce-bce6-2a9bc2a2cc19</guid>
+            <pubDate>Thu, 14 Jan 2016 20:33:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f64ff3-e549-4eec-9be9-66b46d37cdc0.JPG">]]></description>
-            <link>undefinedd9d5b8b0-b545-4be4-a07b-195eace4f4b1/index.html</link>
+            <link>https://thegrid.ai/muratotti/d9d5b8b0-b545-4be4-a07b-195eace4f4b1/index.html</link>
             <guid isPermaLink="false">d9d5b8b0-b545-4be4-a07b-195eace4f4b1</guid>
             <pubDate>Thu, 14 Jan 2016 20:04:14 GMT</pubDate>
         </item>
