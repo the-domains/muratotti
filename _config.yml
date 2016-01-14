@@ -1,0 +1,28 @@
+name: muratotti
+favicon: null
+layout_spectrum: 0.1185532642994076
+typography_spectrum: 0.41853962768800557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8925165948458016
+  lightness: 0.8026573450770229
+  saturation: 0.941137982532382
+  rhythmicContrast: 0.5213625081814826
+purpose: []
